@@ -1,0 +1,15 @@
+.backround-img{
+     width: 100%;
+     height: 50vh;
+    background-image: url('./Assets/banner-image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+.overlay {
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0,0,0,0.5);  */
+
+}
